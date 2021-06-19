@@ -1,7 +1,12 @@
 ### OLÁ tudo bem eu me chamo KAIQUE 👋
-- HOBBIES 
-### - Curto Basquete e varias outras atividades ao ar livre
-### - falo ingles quase fluente
+
+#### [ HOBBIES ]
+ - Curto Basquete e varias outras atividades ao ar livre
+ - falo ingles quase fluente
+ - amo ouvir musicas e tocar bateria 
+ 
+#### [ MY HISTORY ]
+   Nasci em Curitiba-(PR) continuo no parana e minha vida interia venho estudando de quase tudo um pouco pra ver no que eu me endentifico mas tenho muitas duvidas do que eu quero exercer 
 
 <!--
 **Kahick/Kahick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
