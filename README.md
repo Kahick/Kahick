@@ -1,4 +1,7 @@
-### Hi there 👋
+### OLÁ tudo bem eu me chamo KAIQUE 👋
+- HOBBIES 
+### - Curto Basquete e varias outras atividades ao ar livre
+### - falo ingles quase fluente
 
 <!--
 **Kahick/Kahick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
